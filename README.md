@@ -54,6 +54,7 @@
 - Hibernate
 - Mybatis
 - Kubernetes, Openstack
+- Kafka
 - Docker
 - Redis
 - Swagger
